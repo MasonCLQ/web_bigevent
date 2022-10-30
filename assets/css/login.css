@@ -56,3 +56,7 @@ body {
 .layui-input {
     padding-left: 32px;
 }
+
+.layui-body {
+    overflow: hidden;
+}
